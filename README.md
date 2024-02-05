@@ -28,7 +28,9 @@
 </p>
 <br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul2810&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raul2810&layout=donut&theme=tokyonight)
+![raul2810 GitHub stats](https://github-readme-stats.vercel.app/api?username=raul2810&show_icons=true&theme=tokyonight)
+
 
 
 <!--
