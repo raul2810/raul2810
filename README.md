@@ -4,7 +4,9 @@
 <img src="/IMAGES/Deluque coder.png">
 
 ## Who am I?
+
 <ul>
+  <img src="/IMAGES/animation.gif">
   <li>I am currently interested in wed design and front end development, coding with react JS for my personal projects </li>
   <li>I love playing and hearing music, playing videogames </li>
   <li>currently learning/studying TypeScript, node and Tailwind CSS</li>
