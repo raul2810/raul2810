@@ -28,6 +28,8 @@
 </p>
 <br></br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raul2810&show_icons=true&theme=tokyonight)
+
 
 <!--
 **raul2810/raul2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
