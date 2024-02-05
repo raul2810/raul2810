@@ -3,6 +3,14 @@
 <br></br>
 <img src="/IMAGES/Deluque coder.png">
 
+<h2>Who am I?</h2>
+
+<ul>
+  <li>I am currently interested in wed design and front end development, coding with react JS for my personal projects </li>
+  <li>I love playing and hearing music, playing videogames </li>
+  <li>currently learning/studying TypeScript, node and Tailwind CSS</li>
+</ul>
+
 <!--
 **raul2810/raul2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
