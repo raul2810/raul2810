@@ -4,11 +4,15 @@
 <img src="/IMAGES/Deluque coder.png">
 
 ## Who am I?
-<img align= "right" src="/IMAGES/animation.gif" width= "50%"/>
-  <ul align= "left" margin= "100px">
+<img align= "right" src="/IMAGES/animation.gif" width= "50%" />
+  <ul>
+  <br></br>
   <li>I am currently interested in wed design and front end development, coding with react JS for my personal projects </li>
+  <br></br>
   <li>I love playing and hearing music, playing videogames </li>
+  <br></br>
   <li>currently learning/studying TypeScript, node and Tailwind CSS</li>
+  <br></br>
 </ul>
 
 ## Languages and Tools
