@@ -23,7 +23,7 @@
 
  ## Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/raul-enrrique-de-luque-aaron-4848b0289"><img alt="Linkedin" title="Raul De Luque Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/raul-enrrique-de-luque-aaron-4848b0289"><img alt="Linkedin" title="Raul De Luque Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/raule.d.a/"><img alt="Instagram" title="Raul De Luque Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <br></br>
