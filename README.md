@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😄, my name is Raul, what's up world</h1>
 <h3 align="center">Just a frontend developer who loves to learn about tech and connecting with other people</h2>
 <br></br>
-<img src="/IMAGES/deluqueCoder_1.png">
+<img src="/IMAGES/Deluque coder.png">
 
 <!--
 **raul2810/raul2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
