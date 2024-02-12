@@ -30,7 +30,7 @@
   <td width="50%">
   <h3 align="center">GamesHelper</h3>
   <div align="center">
-  <a href="https://raul2810.github.io/proyecto-gamesHelper/src/App.jsx" target="_blank"><img src="/IMAGES/GamesHelper.png" width="400"></a>
+  <a href="https://raul2810.github.io/proyecto-gamesHelper" target="_blank"><img src="/IMAGES/GamesHelper.png" width="400"></a>
   <p><a href="https://github.com/raul2810/proyecto-gamesHelper" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
   <p>videogames web proyect that provides the user info, reviews, and posible giveaways from multiple platforms accesible in one website (game information hub for gamers, still in development).</p>
   </div>                                                                          
