@@ -23,8 +23,6 @@
 </p>
 
 ## Some of my projects
-<p>Working on it</p>
-
 <table>
   <tr>  
   <td width="50%">
