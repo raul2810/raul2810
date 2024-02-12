@@ -25,6 +25,18 @@
 ## Some of my projects
 <p>Working on it</p>
 
+<table>
+  <tr>  
+  <td width="50%">
+  <h3 align="center">GamesHelper</h3>
+  <div align="center">
+  <a href="" target="_blank"><img src="https://i.imgur.com/GWeAcJ8.png" width="400"></a>
+  <p><a href="https://github.com/raul2810/proyecto-gamesHelper" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+  <p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
+  </div>                                                                          
+  </td>
+</table>
+
  ## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/raul-enrrique-de-luque-aaron-4848b0289"><img alt="Linkedin" title="Raul De Luque Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
