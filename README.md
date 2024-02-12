@@ -30,7 +30,7 @@
   <td width="50%">
   <h3 align="center">GamesHelper</h3>
   <div align="center">
-  <a href="" target="_blank"><img src="/IMAGES/animation.gif" width="400"></a>
+  <a href="" target="_blank"><img src="/IMAGES/GamesHelper" width="400"></a>
   <p><a href="https://github.com/raul2810/proyecto-gamesHelper" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
   <p>This project will allow you to communicate with other people through encrypted messages, it will allow you to encrypt and decrypt texts.</p>
   </div>                                                                          
