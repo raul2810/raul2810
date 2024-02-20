@@ -11,7 +11,7 @@
   <br></br>
   <li>I love playing and hearing music, playing videogames </li>
   <br></br>
-  <li>Currently learning/studying TypeScript, node and Tailwind CSS</li>
+  <li>Currently learning/studying TypeScript, nodeJS and Tailwind CSS</li>
   <br></br>
 </ul>
 
